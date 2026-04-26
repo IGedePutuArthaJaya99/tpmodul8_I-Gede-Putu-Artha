@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\KONSTRUKSIPL\\tpmodul8_103082400036\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B272973-C718-4F37-B902-29149488116D}|tpmodul8_103082400036\\tpmodul8_103082400036.csproj|d:\\konstruksipl\\tpmodul8_103082400036\\tpmodul8_103082400036\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B272973-C718-4F37-B902-29149488116D}|tpmodul8_103082400036\\tpmodul8_103082400036.csproj|solutionrelative:tpmodul8_103082400036\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACE1C37A-63C2-252A-2155-AA22A5A6DC44}|tpmodul8_103082400036\\tpmodul8_103082400036.csproj|d:\\konstruksipl\\tpmodul8_103082400036\\tpmodul8_103082400036\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{ACE1C37A-63C2-252A-2155-AA22A5A6DC44}|tpmodul8_103082400036\\tpmodul8_103082400036.csproj|solutionrelative:tpmodul8_103082400036\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE1C37A-63C2-252A-2155-AA22A5A6DC44}|tpmodul8_103082400036\\tpmodul8_103082400036.csproj|d:\\konstruksipl\\tpmodul8_103082400036\\tpmodul8_103082400036\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE1C37A-63C2-252A-2155-AA22A5A6DC44}|tpmodul8_103082400036\\tpmodul8_103082400036.csproj|solutionrelative:tpmodul8_103082400036\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\KONSTRUKSIPL\\tpmodul8_103082400036\\tpmodul8_103082400036\\.gitignore",
+              "RelativeDocumentMoniker": "tpmodul8_103082400036\\.gitignore",
+              "ToolTip": "D:\\KONSTRUKSIPL\\tpmodul8_103082400036\\tpmodul8_103082400036\\.gitignore",
+              "RelativeToolTip": "tpmodul8_103082400036\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-26T08:13:54.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\KONSTRUKSIPL\\tpmodul8_103082400036\\tpmodul8_103082400036\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul8_103082400036\\Program.cs",
